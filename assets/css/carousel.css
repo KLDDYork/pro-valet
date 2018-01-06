@@ -4,7 +4,7 @@
 
 body {
   padding-bottom: 40px;
-  color: #5a5a5a;
+  color: #ffffff;
 }
 
 
@@ -17,8 +17,10 @@ body {
 	}
  
  .bg-orange{
-	 background-color: orange;
- }
+	 background-color: #3a2f1a;
+	 padding-top:  30px;
+	 padding-bottom:  35px;
+	}
 
 
 
@@ -26,9 +28,10 @@ body {
 * { box-sizing: border-box; }
 
 /* force scrollbar */
-html { overflow-y: scroll; }
+html {overflow-y: scroll;
+font-family: 'Roboto', sans-serif;}
 
-body { font-family: sans-serif; }
+body {  }
 
 /* ---- grid ---- */
 
